@@ -28,5 +28,10 @@ The Visualization Module uses the Pygame library to provide a graphical user int
 </p>
 
 ## Vehicle Detected Output Images
+![output_1](https://github.com/sharma-srishti/Adaptive-Traffic-Management-System/assets/91448471/b000d1e3-37f0-493a-840f-c4531f40d8b4)
+![output_2](https://github.com/sharma-srishti/Adaptive-Traffic-Management-System/assets/91448471/6fb623ac-103e-4bfd-a91d-54b11f77fdd5)
+![output_3](https://github.com/sharma-srishti/Adaptive-Traffic-Management-System/assets/91448471/66e41e36-0889-49c3-824b-b983328d140c)
+![output_4](https://github.com/sharma-srishti/Adaptive-Traffic-Management-System/assets/91448471/3454b988-c540-4b38-ad8f-4c417a549b8f)
+
 
 
